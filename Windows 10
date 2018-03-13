@@ -11,7 +11,7 @@ C盘重要目录位置转移
 办公类：
       Office 365（登陆/激活）		福盺套件/激活
       欧路词典（登陆/激活）			 PPT美化大师
-			方方格子									NoteHighlight
+	方方格子									NoteHighlight
 			
 通信类：
 			腾讯QQ										微信
@@ -22,7 +22,7 @@ C盘重要目录位置转移
 			Potplayer/解码器、分离器、皮肤
 			网易云音乐								迅雷
 			百度网盘							    百度云同步盘
-			Fences										Wallpaper Engine
+			Fences					Wallpaper Engine
 娱乐类：
 			Steam											Battle.net			
 			Overture（选）
@@ -46,6 +46,14 @@ C盘重要目录位置转移
 
 
 修复文件关联 ，进行软件账户设置，安装打印机，系统个性化设置。
+	关闭家庭组：控制面板>家庭组>离开
+	关闭服务：WindowsSearch
+		 SuperFetch
+	Win10启动飞快：控制面板>电源选项>选择电源按钮的功能，更改当前不可用的设置>关机设置>勾上启用快速启动。
+	请先开启休眠：Win+R输入powercfg–h on，关闭休眠：powercfg –h off(关闭后C盘会空出几G的空间)
+	关闭性能特效(配置不好的机器可以关闭)
+	系统属性>高级>性能>设置>关闭淡出淡入效果。打开文件夹，小软件很快的
+	无GUI引导
 打补丁，清理垃圾，删除软件残留。
 服务、启动项、注册表优化
 更新系统
