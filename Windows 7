@@ -1,0 +1,52 @@
+#以下新装操作流程仅供参考
+磁盘准备：磁盘检查。格式化，4k对齐; MBR、PBR建立
+新装系统，修复引导
+激活(若盗版）、补驱动、装VC组件、运行库等。
+C盘重要目录位置转移
+     文档 图片  视频  音乐  下载  Temp目录  桌面  
+
+※必装软件列表（参考）
+浏览器：
+      Google Chrome （同步完成）  搭梯子   扩展脚本配置
+办公类：
+      Office 365（登陆/激活）		福盺套件/激活
+      欧路词典（登陆/激活）			 PPT美化大师
+			方方格子									NoteHighlight
+			
+通信类：
+			腾讯QQ										微信
+			阿里旺旺
+工具类：
+			Clover（登陆/激活）				Listary（激活）
+			Mathtype（激活）					IDM（激活）
+			Potplayer/解码器、分离器、皮肤
+			网易云音乐								迅雷
+			百度网盘							    百度云同步盘
+			Fences										Wallpaper Engine
+娱乐类：
+			Steam											Battle.net			
+			Overture（选）
+			PPT美化大师
+
+专业类:
+			Origin 2015 32bit		
+			MATLAB（选）
+		
+后期类(选）:
+			Photoshop CC 2014/激活	
+			Vegas Pro 11
+			Quicktime			
+			魔影工厂
+			AfterEffects
+			Adobe Audition
+开发类：
+			Python 3.6								
+其他类:
+			CASIO FA-124 （选）
+
+
+修复文件关联 ，进行软件账户设置，安装打印机，系统个性化设置。
+打补丁，清理垃圾，删除软件残留。
+服务、启动项、注册表优化
+备份系统/创建差分盘（VHD）
+Enjoy
